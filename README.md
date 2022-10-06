@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Daniel 👋
+
+Welcome to my GitHub! You can find here various projects I have developed during my studies at Brno University of Technology. There are also some of my personal and other projects as I already graduated but I'm still focused on improving my programming skills.
+
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/daniel-konecny/).
 
 <!--
 **danielkonecny/danielkonecny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
